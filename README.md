@@ -10,17 +10,15 @@ Company.
 A empresa realiza negócios entre restaurantes, entregadores e
 pessoas, e gera muitos dados sobre entregas, tipos de pedidos,
 condições climáticas, avaliação dos entregadores e etc. Apesar da
-entrega estar crescento, em termos de entregas, o CEO não tem
+entrega estar crescendo, em termos de entregas, o CEO não tem
 visibilidade completa dos KPIs de crescimento da empresa.
 
-Você foi contratado como um Cientista de Dados para criar soluções
-de dados para entrega, mas antes de treinar algoritmos, a
-necessidade da empresa é ter um os principais KPIs estratégicos
+Antes de treinar algoritmos, a necessidade da empresa é ter um os principais KPIs estratégicos
 organizados em uma única ferramenta, para que o CEO possa
 consultar e conseguir tomar decisões simples, porém importantes.
 
 A Cury Company possui um modelo de negócio chamado
-Marketplace, que fazer o intermédio do negócio entre três clientes
+Marketplace, que faz o intermédio do negócio entre três clientes
 principais: Restaurantes, entregadores e pessoas compradoras. Para
 acompanhar o crescimento desses negócios, o CEO gostaria de ver
 as seguintes métricas de crescimento:
